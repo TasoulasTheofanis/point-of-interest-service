@@ -98,5 +98,5 @@ GET `/api/pois`
 ## Swagger UI
 
 ```text
-http://localhost:8080/swagger-ui/index.html
+[http://localhost:8080/swagger-ui/index.html](https://improved-computing-machine-xr5gj9r6759cv9rr-8080.app.github.dev/swagger-ui/index.html#/)
 ```
