@@ -88,3 +88,15 @@ GET `/api/pois`
 - Coordinates are stored using PostGIS geometry type.
 - JPA/Hibernate is used for persistence operations.
 - Validation is implemented using Jakarta Validation.
+
+## Run Tests
+
+```bash
+./mvnw test
+```
+
+## Swagger UI
+
+```text
+http://localhost:8080/swagger-ui/index.html
+```
